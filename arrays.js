@@ -4,3 +4,5 @@ function addElementToBeginningOfArray(array, element) {
   array.unshift('foo')
   return array;
 }
+
+display.log(array)
